@@ -1,0 +1,35 @@
+
+/* this code for element */
+h1{
+   color: aquamarine; 
+} 
+
+/* class */
+.heading1{
+    color: brown;
+}
+
+/* id */
+#para1{
+    color: bisque;
+}
+
+/* universal */
+*{
+    color: blueviolet;
+}
+
+/* /here use only universal and class  */
+*{
+    color: blueviolet;
+}
+.heading1{
+    color: brown;
+}
+/*  Dcleration here color and font size are decleration*/
+.paragraph{
+    color: azure;
+    font-size: 100px;
+}
+
+
